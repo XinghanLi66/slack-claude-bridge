@@ -1,0 +1,4 @@
+.venv/
+.env
+.slack-bot/
+__pycache__/
